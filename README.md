@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:131517,100:1c1e21&height=200&section=header&text=Swapnil%20Chavan&fontSize=52&fontColor=d1fe17&animation=fadeIn&fontAlignY=38&desc=Founding%20Software%20Engineer%20%E2%80%A2%20AI%2FLLM%20Backend%20Systems&descAlignY=58&descSize=18&descColor=f5f5f4" />
 
 <a href="https://linkedin.com/in/swapnil-chavan-0a1a95214">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=800&color=D1FE17&center=true&vCenter=true&width=650&background=13151700&lines=Building+voice-AI+%26+RAG+pipelines+in+production;LLM-driven+automation+%7C+Scalable+microservices;Cut+LLM+inference+costs+by+5x;Python+%C2%B7+TypeScript+%C2%B7+AWS+%C2%B7+Kafka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=800&color=D1FE17&center=true&vCenter=true&width=650&background=131517&lines=Building+voice-AI+%26+RAG+pipelines+in+production;LLM-driven+automation+%7C+Scalable+microservices;Cut+LLM+inference+costs+by+5x;Python+%C2%B7+TypeScript+%C2%B7+AWS+%C2%B7+Kafka" alt="Typing SVG" />
 </a>
 
 </div>
