@@ -1,13 +1,158 @@
-# 💫 About Me:
-💻 Software Engineer with experience building and scaling production-ready systems in fast-paced startup environments.<br><br>🚀 Strong in backend development, system design, and delivering end-to-end features from architecture to deployment.<br><br>🧠 Focused on writing clean, maintainable code and solving real-world problems with scalable solutions.<br><br>📈 Adaptable, quick learner, and comfortable taking ownership to drive meaningful impact.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:131517,100:1c1e21&height=200&section=header&text=Swapnil%20Chavan&fontSize=52&fontColor=d1fe17&animation=fadeIn&fontAlignY=38&desc=Founding%20Software%20Engineer%20%E2%80%A2%20AI%2FLLM%20Backend%20Systems&descAlignY=58&descSize=18&descColor=f5f5f4" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-chavan-0a1a95214) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31256611/swapnil-chavan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/swapnil18901) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnilchavan18901@gmail.com) 
+<a href="https://linkedin.com/in/swapnil-chavan-0a1a95214">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=800&color=D1FE17&center=true&vCenter=true&width=650&background=13151700&lines=Building+voice-AI+%26+RAG+pipelines+in+production;LLM-driven+automation+%7C+Scalable+microservices;Cut+LLM+inference+costs+by+5x;Python+%C2%B7+TypeScript+%C2%B7+AWS+%C2%B7+Kafka" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swapnilchavan18901&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=swapnilchavan18901&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilchavan18901&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+<br/>
+
+## 💫 About Me
+
+```yaml
+role: Founding Software Engineer
+experience: 2 years — healthcare, B2B & SaaS platforms
+focus: End-to-end LLM systems — voice AI pipelines, RAG architectures, LLM-driven automation
+also: Scalable microservices — Python, TypeScript, AWS, PostgreSQL, Kafka
+impact: Cut LLM inference costs by 5x in production
+location: Alibag, Maharashtra, India
+```
+
+- 🎙️ Currently building **DIDI**, a voice-to-voice maternal-health bot (VAD → STT → LLM → TTS) at **[Onicares AI](https://onicares.ai)** — real-time symptom triage at **$0.021/turn**.
+- 🧬 Specialize in **RAG architectures**, **voice AI pipelines**, and **LLM-driven automation**, backed by production-grade microservices.
+- ⚙️ Founding engineer across three AI startups, shipping backend systems from architecture to deployment, solo and fast.
+- 📈 Track record of driving down inference cost and latency without sacrificing reliability.
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="140"><b>Onicares AI</b><br/><sub>May 2026 – Present</sub></td>
+<td>
+Founding Software Engineer (Contract, Remote)<br/>
+Voice-to-voice maternal-health bot (VAD→STT→LLM→TTS), doctor-facing diagnosis recorder, Sarvam AI + Gemini OCR pipeline for clinical reports, and an end-to-end Razorpay autopay system with provider-agnostic schema design.
+</td>
+</tr>
+<tr>
+<td><b>Klubit AI</b><br/><sub>Aug 2025 – Jan 2026</sub></td>
+<td>
+Founding Software Engineer (Contract, Remote)<br/>
+End-to-end NestJS/PostgreSQL/Kafka backend — 9+ modules, 99.99% uptime. Containerized AWS deployment (EC2, S3, ECR) with S3 pre-signed URLs, Google API & Razorpay Autopay integrations.
+</td>
+</tr>
+<tr>
+<td><b>Sharbo AI</b><br/><sub>Nov 2024 – Jul 2025</sub></td>
+<td>
+Founding Software Engineer (Contract, Remote)<br/>
+B2B visitor-intelligence platform — real-time IP enrichment, AI-driven company profiling, and automated lead qualification across 20+ microservices (PostgreSQL/Drizzle, Supabase, Cloudflare Queues, Clerk).
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[FileMind](https://github.com/swapnilchavan18901/FileMind)**
+Full-stack AI Bot-as-a-Service platform — upload PDFs through a RabbitMQ pipeline (S3 → pypdf → OpenAI embeddings → Qdrant) to spin up embeddable RAG chatbots with real-time chat over FastAPI + Socket.IO.
+<br/><sub>`FastAPI` `Next.js` `PostgreSQL` `Prisma` `RabbitMQ` `Qdrant` `OpenAI`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Doc-Delta](https://github.com/swapnilchavan18901/Doc-Delta)**
+Event-driven platform that analyzes code changes and auto-publishes technical documentation to Notion via agent orchestration — cutting doc overhead by 90% while staying real-time accurate.
+<br/><sub>`FastAPI` `GitHub Webhooks` `Notion API` `OpenAI Agents SDK`</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🌐 Connect
+
+<p>
+<a href="https://linkedin.com/in/swapnil-chavan-0a1a95214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-131517?style=for-the-badge&logo=linkedin&logoColor=D1FE17" /></a>
+<a href="https://stackoverflow.com/users/31256611/swapnil-chavan" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-131517?style=for-the-badge&logo=stack-overflow&logoColor=D1FE17" /></a>
+<a href="https://x.com/swapnil18901" target="_blank"><img src="https://img.shields.io/badge/X-131517?style=for-the-badge&logo=x&logoColor=D1FE17" /></a>
+<a href="mailto:swapnilchavan18901@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-131517?style=for-the-badge&logo=gmail&logoColor=D1FE17" /></a>
+</p>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/C++-131517?style=for-the-badge&logo=cplusplus&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Python-131517?style=for-the-badge&logo=python&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/TypeScript-131517?style=for-the-badge&logo=typescript&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/JavaScript-131517?style=for-the-badge&logo=javascript&logoColor=D1FE17" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-131517?style=for-the-badge&logo=fastapi&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/NestJS-131517?style=for-the-badge&logo=nestjs&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Express.js-131517?style=for-the-badge&logo=express&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Next.js-131517?style=for-the-badge&logo=nextdotjs&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/React-131517?style=for-the-badge&logo=react&logoColor=D1FE17" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-131517?style=for-the-badge&logo=langchain&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/OpenAI-131517?style=for-the-badge&logo=openai&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/CrewAI-131517?style=for-the-badge&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/n8n-131517?style=for-the-badge&logo=n8n&logoColor=D1FE17" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-131517?style=for-the-badge&logo=postgresql&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/MongoDB-131517?style=for-the-badge&logo=mongodb&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Redis-131517?style=for-the-badge&logo=redis&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Qdrant-131517?style=for-the-badge&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Pinecone-131517?style=for-the-badge&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Prisma-131517?style=for-the-badge&logo=prisma&logoColor=D1FE17" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-131517?style=for-the-badge&logo=amazonaws&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Docker-131517?style=for-the-badge&logo=docker&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Kafka-131517?style=for-the-badge&logo=apachekafka&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/RabbitMQ-131517?style=for-the-badge&logo=rabbitmq&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Cloudflare-131517?style=for-the-badge&logo=cloudflare&logoColor=D1FE17" />
+<img src="https://img.shields.io/badge/Git-131517?style=for-the-badge&logo=git&logoColor=D1FE17" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=swapnilchavan18901&show_icons=true&hide_border=true&bg_color=131517&title_color=D1FE17&icon_color=D1FE17&text_color=F5F5F4&ring_color=D1FE17&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilchavan18901&hide_border=true&background=131517&ring=D1FE17&fire=D1FE17&currStreakLabel=D1FE17&sideLabels=F5F5F4&currStreakNum=F5F5F4&sideNums=F5F5F4&dates=9A978F&stroke=131517" />
+</p>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilchavan18901&layout=compact&hide_border=true&bg_color=131517&title_color=D1FE17&text_color=F5F5F4&langs_count=10" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnilchavan18901&bg_color=131517&color=D1FE17&line=D1FE17&point=F5F5F4&area=true&area_color=D1FE17&hide_border=true" />
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1e21,100:131517&height=100&section=footer" />
+
+</div>
