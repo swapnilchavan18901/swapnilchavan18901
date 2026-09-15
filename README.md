@@ -137,16 +137,12 @@ Event-driven platform that analyzes code changes and auto-publishes technical do
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=swapnilchavan18901&show_icons=true&hide_border=true&bg_color=131517&title_color=D1FE17&icon_color=D1FE17&text_color=F5F5F4&ring_color=D1FE17&count_private=true" />
+<img height="165" src="https://github-readme-stats.hackclub.dev/api?username=swapnilchavan18901&show_icons=true&hide_border=true&bg_color=131517&title_color=D1FE17&icon_color=D1FE17&text_color=F5F5F4&ring_color=D1FE17&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilchavan18901&hide_border=true&background=131517&ring=D1FE17&fire=D1FE17&currStreakLabel=D1FE17&sideLabels=F5F5F4&currStreakNum=F5F5F4&sideNums=F5F5F4&dates=9A978F&stroke=131517" />
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilchavan18901&layout=compact&hide_border=true&bg_color=131517&title_color=D1FE17&text_color=F5F5F4&langs_count=10" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnilchavan18901&bg_color=131517&color=D1FE17&line=D1FE17&point=F5F5F4&area=true&area_color=D1FE17&hide_border=true" />
+<img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=swapnilchavan18901&layout=compact&hide_border=true&bg_color=131517&title_color=D1FE17&text_color=F5F5F4&langs_count=10" />
 </p>
 
 <br/>
