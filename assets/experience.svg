@@ -1,0 +1,40 @@
+<svg width="900" height="480" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'Space Grotesk', Helvetica, Arial, sans-serif">
+  <rect width="900" height="480" rx="14" fill="#131517"/>
+  <rect x="1" y="1" width="898" height="478" rx="13" fill="none" stroke="#2b2e32" stroke-width="1"/>
+
+  <text x="34" y="48" font-size="24" font-weight="700" fill="#d1fe17">💼 Experience</text>
+  <line x1="34" y1="64" x2="866" y2="64" stroke="#2b2e32" stroke-width="1"/>
+
+  <!-- Onicares AI -->
+  <text x="34" y="98" font-size="17" font-weight="700" fill="#f5f5f4">Onicares AI</text>
+  <text x="866" y="98" font-size="13" fill="#9a978f" text-anchor="end">May 2026 – Present</text>
+  <text x="34" y="118" font-size="13" fill="#9a978f">Founding Software Engineer · Contract, Remote</text>
+  <g font-size="14" fill="#d3d1cc">
+    <text x="34" y="142">Voice-to-voice maternal-health bot (VAD→STT→LLM→TTS), doctor-facing diagnosis recorder,</text>
+    <text x="34" y="162">Sarvam AI + Gemini OCR pipeline for clinical reports, and an end-to-end Razorpay autopay</text>
+    <text x="34" y="182">system with provider-agnostic schema design.</text>
+  </g>
+
+  <line x1="34" y1="206" x2="866" y2="206" stroke="#2b2e32" stroke-width="1"/>
+
+  <!-- Klubit AI -->
+  <text x="34" y="238" font-size="17" font-weight="700" fill="#f5f5f4">Klubit AI</text>
+  <text x="866" y="238" font-size="13" fill="#9a978f" text-anchor="end">Aug 2025 – Jan 2026</text>
+  <text x="34" y="258" font-size="13" fill="#9a978f">Founding Software Engineer · Contract, Remote</text>
+  <g font-size="14" fill="#d3d1cc">
+    <text x="34" y="282">End-to-end NestJS/PostgreSQL/Kafka backend — 9+ modules, 99.99% uptime. Containerized AWS</text>
+    <text x="34" y="302">deployment (EC2, S3, ECR) with S3 pre-signed URLs, Google API &amp; Razorpay Autopay integrations.</text>
+  </g>
+
+  <line x1="34" y1="326" x2="866" y2="326" stroke="#2b2e32" stroke-width="1"/>
+
+  <!-- Sharbo AI -->
+  <text x="34" y="358" font-size="17" font-weight="700" fill="#f5f5f4">Sharbo AI</text>
+  <text x="866" y="358" font-size="13" fill="#9a978f" text-anchor="end">Nov 2024 – Jul 2025</text>
+  <text x="34" y="378" font-size="13" fill="#9a978f">Founding Software Engineer · Contract, Remote</text>
+  <g font-size="14" fill="#d3d1cc">
+    <text x="34" y="402">B2B visitor-intelligence platform — real-time IP enrichment, AI-driven company profiling,</text>
+    <text x="34" y="422">and automated lead qualification across 20+ microservices (PostgreSQL/Drizzle, Supabase,</text>
+    <text x="34" y="442">Cloudflare Queues, Clerk).</text>
+  </g>
+</svg>

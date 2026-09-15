@@ -1,0 +1,28 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'Space Grotesk', Helvetica, Arial, sans-serif">
+  <rect width="900" height="430" rx="14" fill="#131517"/>
+  <rect x="1" y="1" width="898" height="428" rx="13" fill="none" stroke="#2b2e32" stroke-width="1"/>
+
+  <text x="34" y="48" font-size="24" font-weight="700" fill="#d1fe17">💫 About Me</text>
+  <line x1="34" y1="64" x2="866" y2="64" stroke="#2b2e32" stroke-width="1"/>
+
+  <g font-size="14.5" font-family="'JetBrains Mono','Fira Code',monospace">
+    <text x="34" y="96"><tspan fill="#d1fe17">role</tspan><tspan fill="#6b6862">: </tspan><tspan fill="#f5f5f4">Founding Software Engineer</tspan></text>
+    <text x="34" y="122"><tspan fill="#d1fe17">experience</tspan><tspan fill="#6b6862">: </tspan><tspan fill="#f5f5f4">2 years — healthcare, B2B &amp; SaaS platforms</tspan></text>
+    <text x="34" y="148"><tspan fill="#d1fe17">focus</tspan><tspan fill="#6b6862">: </tspan><tspan fill="#f5f5f4">End-to-end LLM systems — voice AI, RAG, automation</tspan></text>
+    <text x="34" y="174"><tspan fill="#d1fe17">stack</tspan><tspan fill="#6b6862">: </tspan><tspan fill="#f5f5f4">Python, TypeScript, AWS, PostgreSQL, Kafka</tspan></text>
+    <text x="34" y="200"><tspan fill="#d1fe17">impact</tspan><tspan fill="#6b6862">: </tspan><tspan fill="#f5f5f4">Cut LLM inference costs by 5x in production</tspan></text>
+    <text x="34" y="226"><tspan fill="#d1fe17">location</tspan><tspan fill="#6b6862">: </tspan><tspan fill="#f5f5f4">Alibag, Maharashtra, India</tspan></text>
+  </g>
+
+  <line x1="34" y1="252" x2="866" y2="252" stroke="#2b2e32" stroke-width="1"/>
+
+  <g font-size="15.5" fill="#d3d1cc">
+    <text x="34" y="286">🎙️ Currently building <tspan fill="#d1fe17" font-weight="600">DIDI</tspan>, a voice-to-voice maternal-health bot</text>
+    <text x="56" y="308">(VAD → STT → LLM → TTS) at <tspan fill="#d1fe17" font-weight="600">Onicares AI</tspan> — real-time triage at <tspan fill="#f5f5f4">$0.021/turn</tspan>.</text>
+
+    <text x="34" y="342">🧬 Specialize in <tspan fill="#d1fe17" font-weight="600">RAG architectures</tspan>, <tspan fill="#d1fe17" font-weight="600">voice AI pipelines</tspan>, and</text>
+    <text x="56" y="364"><tspan fill="#d1fe17" font-weight="600">LLM-driven automation</tspan>, backed by production-grade microservices.</text>
+
+    <text x="34" y="398">⚙️ Founding engineer across three AI startups — architecture to deployment, solo &amp; fast.</text>
+  </g>
+</svg>

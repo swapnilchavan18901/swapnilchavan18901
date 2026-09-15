@@ -10,72 +10,20 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=131517&height=60&section=header&text=%F0%9F%92%AB%20About%20Me&fontSize=22&fontColor=d1fe17&fontAlign=8&fontAlignY=60" />
-
-```yaml
-role: Founding Software Engineer
-experience: 2 years — healthcare, B2B & SaaS platforms
-focus: End-to-end LLM systems — voice AI pipelines, RAG architectures, LLM-driven automation
-also: Scalable microservices — Python, TypeScript, AWS, PostgreSQL, Kafka
-impact: Cut LLM inference costs by 5x in production
-location: Alibag, Maharashtra, India
-```
-
-- 🎙️ Currently building **DIDI**, a voice-to-voice maternal-health bot (VAD → STT → LLM → TTS) at **[Onicares AI](https://onicares.ai)** — real-time symptom triage at **$0.021/turn**.
-- 🧬 Specialize in **RAG architectures**, **voice AI pipelines**, and **LLM-driven automation**, backed by production-grade microservices.
-- ⚙️ Founding engineer across three AI startups, shipping backend systems from architecture to deployment, solo and fast.
-- 📈 Track record of driving down inference cost and latency without sacrificing reliability.
+<img width="100%" src="https://cdn.jsdelivr.net/gh/swapnilchavan18901/swapnilchavan18901@main/assets/about.svg" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=131517&height=60&section=header&text=%F0%9F%92%BC%20Experience&fontSize=22&fontColor=d1fe17&fontAlign=8&fontAlignY=60" />
-
-<table>
-<tr>
-<td width="140"><b>Onicares AI</b><br/><sub>May 2026 – Present</sub></td>
-<td>
-Founding Software Engineer (Contract, Remote)<br/>
-Voice-to-voice maternal-health bot (VAD→STT→LLM→TTS), doctor-facing diagnosis recorder, Sarvam AI + Gemini OCR pipeline for clinical reports, and an end-to-end Razorpay autopay system with provider-agnostic schema design.
-</td>
-</tr>
-<tr>
-<td><b>Klubit AI</b><br/><sub>Aug 2025 – Jan 2026</sub></td>
-<td>
-Founding Software Engineer (Contract, Remote)<br/>
-End-to-end NestJS/PostgreSQL/Kafka backend — 9+ modules, 99.99% uptime. Containerized AWS deployment (EC2, S3, ECR) with S3 pre-signed URLs, Google API & Razorpay Autopay integrations.
-</td>
-</tr>
-<tr>
-<td><b>Sharbo AI</b><br/><sub>Nov 2024 – Jul 2025</sub></td>
-<td>
-Founding Software Engineer (Contract, Remote)<br/>
-B2B visitor-intelligence platform — real-time IP enrichment, AI-driven company profiling, and automated lead qualification across 20+ microservices (PostgreSQL/Drizzle, Supabase, Cloudflare Queues, Clerk).
-</td>
-</tr>
-</table>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/swapnilchavan18901/swapnilchavan18901@main/assets/experience.svg" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=131517&height=60&section=header&text=%F0%9F%9A%80%20Projects&fontSize=22&fontColor=d1fe17&fontAlign=8&fontAlignY=60" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/swapnilchavan18901/swapnilchavan18901@main/assets/projects.svg" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[FileMind](https://github.com/swapnilchavan18901/FileMind)**
-Full-stack AI Bot-as-a-Service platform — upload PDFs through a RabbitMQ pipeline (S3 → pypdf → OpenAI embeddings → Qdrant) to spin up embeddable RAG chatbots with real-time chat over FastAPI + Socket.IO.
-<br/><sub>`FastAPI` `Next.js` `PostgreSQL` `Prisma` `RabbitMQ` `Qdrant` `OpenAI`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Doc-Delta](https://github.com/swapnilchavan18901/Doc-Delta)**
-Event-driven platform that analyzes code changes and auto-publishes technical documentation to Notion via agent orchestration — cutting doc overhead by 90% while staying real-time accurate.
-<br/><sub>`FastAPI` `GitHub Webhooks` `Notion API` `OpenAI Agents SDK`</sub>
-
-</td>
-</tr>
-</table>
+<p>
+<a href="https://github.com/swapnilchavan18901/FileMind"><img src="https://img.shields.io/badge/FileMind_repo-131517?style=for-the-badge&logo=github&logoColor=D1FE17" /></a>
+<a href="https://github.com/swapnilchavan18901/Doc-Delta"><img src="https://img.shields.io/badge/Doc--Delta_repo-131517?style=for-the-badge&logo=github&logoColor=D1FE17" /></a>
+</p>
 
 <br/>
 
