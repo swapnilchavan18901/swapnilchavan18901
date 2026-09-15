@@ -30,9 +30,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=131517&height=60&section=header&text=%F0%9F%8C%90%20Connect&fontSize=22&fontColor=d1fe17&fontAlign=8&fontAlignY=60" />
 
 <p>
-<a href="https://linkedin.com/in/swapnil-chavan-0a1a95214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-131517?style=for-the-badge&logo=linkedin&logoColor=D1FE17" /></a>
-<a href="https://stackoverflow.com/users/31256611/swapnil-chavan" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-131517?style=for-the-badge&logo=stack-overflow&logoColor=D1FE17" /></a>
-<a href="https://x.com/swapnil18901" target="_blank"><img src="https://img.shields.io/badge/X-131517?style=for-the-badge&logo=x&logoColor=D1FE17" /></a>
+<a href="https://linkedin.com/in/swapnil-chavan-0a1a95214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-131517?style=for-the-badge&logo=linkedin&logoColor=D1FE17" /></a><a href="https://x.com/swapnil18901" target="_blank"><img src="https://img.shields.io/badge/X-131517?style=for-the-badge&logo=x&logoColor=D1FE17" /></a>
 <a href="mailto:swapnilchavan18901@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-131517?style=for-the-badge&logo=gmail&logoColor=D1FE17" /></a>
 </p>
 
