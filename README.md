@@ -27,7 +27,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=131517&height=60&section=header&text=%F0%9F%8C%90%20Connect&fontSize=22&fontColor=d1fe17&fontAlign=8&fontAlignY=60" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/swapnilchavan18901/swapnilchavan18901@main/assets/banner-connect.svg" />
 
 <p>
 <a href="https://linkedin.com/in/swapnil-chavan-0a1a95214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-131517?style=for-the-badge&logo=linkedin&logoColor=D1FE17" /></a>
@@ -37,7 +37,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=131517&height=60&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=22&fontColor=d1fe17&fontAlign=8&fontAlignY=60" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/swapnilchavan18901/swapnilchavan18901@main/assets/banner-techstack.svg" />
 
 <p>
 <img src="https://img.shields.io/badge/C++-131517?style=for-the-badge&logo=cplusplus&logoColor=D1FE17" />
@@ -81,7 +81,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=131517&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=22&fontColor=d1fe17&fontAlign=8&fontAlignY=60" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/swapnilchavan18901/swapnilchavan18901@main/assets/banner-githubstats.svg" />
 
 <p align="center">
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=swapnilchavan18901&show_icons=true&hide_border=true&bg_color=131517&title_color=D1FE17&icon_color=D1FE17&text_color=F5F5F4&ring_color=D1FE17&count_private=true" />

@@ -2,7 +2,12 @@
   <rect width="900" height="480" rx="14" fill="#131517"/>
   <rect x="1" y="1" width="898" height="478" rx="13" fill="none" stroke="#2b2e32" stroke-width="1"/>
 
-  <text x="34" y="48" font-size="24" font-weight="700" fill="#d1fe17">💼 Experience</text>
+  <g transform="translate(34,23)" stroke="#d1fe17" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="6" width="20" height="14" rx="2"/>
+    <path d="M7 6 V3.5 A1.5 1.5 0 0 1 8.5 2 H11.5 A1.5 1.5 0 0 1 13 3.5 V6"/>
+    <line x1="0" y1="12" x2="20" y2="12"/>
+  </g>
+  <text x="66" y="48" font-size="24" font-weight="700" fill="#d1fe17">Experience</text>
   <line x1="34" y1="64" x2="866" y2="64" stroke="#2b2e32" stroke-width="1"/>
 
   <!-- Onicares AI -->

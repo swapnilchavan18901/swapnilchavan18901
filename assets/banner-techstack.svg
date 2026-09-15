@@ -1,0 +1,12 @@
+<svg width="900" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'Space Grotesk', Helvetica, Arial, sans-serif">
+  <rect width="900" height="60" rx="14" fill="#131517"/>
+  <rect x="0.5" y="0.5" width="899" height="59" rx="13.5" fill="none" stroke="#2b2e32" stroke-width="1"/>
+
+  <g transform="translate(34,19)" stroke="#d1fe17" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="11,0 21,6 11,12 1,6"/>
+    <polyline points="1,11 11,17 21,11"/>
+    <polyline points="1,16 11,22 21,16"/>
+  </g>
+
+  <text x="66" y="38" font-size="22" font-weight="700" fill="#d1fe17">Tech Stack</text>
+</svg>
